@@ -40,6 +40,7 @@ public class frame6 extends javax.swing.JFrame {
         prc1 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("PLACE ORDER UI-AKANKSHA SINHA-C5_167");
         getContentPane().setLayout(new java.awt.FlowLayout());
 
         jPanel4.setBackground(new java.awt.Color(216, 236, 176));

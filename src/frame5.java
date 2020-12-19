@@ -40,6 +40,7 @@ public class frame5 extends javax.swing.JFrame {
         prc = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("SEARCH PRODUCT UI- AKANKSHA SINHA-C5_167");
         getContentPane().setLayout(new java.awt.FlowLayout());
 
         jPanel2.setBackground(new java.awt.Color(216, 236, 176));

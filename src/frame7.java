@@ -49,6 +49,7 @@ public class frame7 extends javax.swing.JFrame {
         jLabel1 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("PLACE ORDER UI- AKSNKSHA SINHA-C5_167");
         getContentPane().setLayout(new java.awt.FlowLayout());
 
         jPanel1.setBackground(new java.awt.Color(216, 236, 176));
@@ -181,6 +182,7 @@ public class frame7 extends javax.swing.JFrame {
         pd1.setText(" ");
         qt1.setText(" ");
         pr1.setText(" ");
+        msg.setText(" ");
         boolean flase = false;
         remove.setVisible(flase);// TODO add your handling code here:
     }//GEN-LAST:event_removeActionPerformed
